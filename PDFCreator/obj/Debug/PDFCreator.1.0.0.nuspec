@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>PDFCreator</id>
+    <version>1.0.0</version>
+    <authors>Serhii Rozniuk</authors>
+    <description>Pdf document generator</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp2.0">
+        <dependency id="Docnet.Core" version="2.2.0" exclude="Build,Analyzers" />
+        <dependency id="PdfSharp.MigraDoc.Standard" version="1.51.15" exclude="Build,Analyzers" />
+        <dependency id="System.Drawing.Common" version="5.0.2" exclude="Build,Analyzers" />
+        <dependency id="System.Resources.Extensions" version="5.0.0" exclude="Build,Analyzers" />
+        <dependency id="System.Resources.ResourceManager" version="4.3.0" exclude="Build,Analyzers" />
+        <dependency id="System.Text.Encoding.CodePages" version="5.0.0" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework="net5.0">
+        <dependency id="Docnet.Core" version="2.2.0" exclude="Build,Analyzers" />
+        <dependency id="PdfSharp.MigraDoc.Standard" version="1.51.15" exclude="Build,Analyzers" />
+        <dependency id="System.Drawing.Common" version="5.0.2" exclude="Build,Analyzers" />
+        <dependency id="System.Resources.Extensions" version="5.0.0" exclude="Build,Analyzers" />
+        <dependency id="System.Resources.ResourceManager" version="4.3.0" exclude="Build,Analyzers" />
+        <dependency id="System.Text.Encoding.CodePages" version="5.0.0" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Docnet.Core" version="2.2.0" exclude="Build,Analyzers" />
+        <dependency id="PdfSharp.MigraDoc.Standard" version="1.51.15" exclude="Build,Analyzers" />
+        <dependency id="System.Drawing.Common" version="5.0.2" exclude="Build,Analyzers" />
+        <dependency id="System.Resources.Extensions" version="5.0.0" exclude="Build,Analyzers" />
+        <dependency id="System.Resources.ResourceManager" version="4.3.0" exclude="Build,Analyzers" />
+        <dependency id="System.Text.Encoding.CodePages" version="5.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Projects\PDFCreator\PDFCreator\PDFCreator\bin\Debug\net5.0\PDFCreator.dll" target="lib\net5.0\PDFCreator.dll" />
+    <file src="C:\Projects\PDFCreator\PDFCreator\PDFCreator\bin\Debug\netcoreapp2.0\PDFCreator.dll" target="lib\netcoreapp2.0\PDFCreator.dll" />
+    <file src="C:\Projects\PDFCreator\PDFCreator\PDFCreator\bin\Debug\netstandard2.0\PDFCreator.dll" target="lib\netstandard2.0\PDFCreator.dll" />
+  </files>
+</package>

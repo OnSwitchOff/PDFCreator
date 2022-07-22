@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "Tnh5ooMzYP6CP893GLX/tHja/ElFr6FPgJpHzllrtpFsK+GUdBc8dYdzurn+o52fy7tzqa5tOq1ilnXwWbE5dg==",
+  "success": true,
+  "projectFilePath": "E:\\Projects\\PDFCreator\\PDFCreator\\PDFCreator\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "E:\\Nuget_Packages\\packages\\docnet.core\\2.2.0\\docnet.core.2.2.0.nupkg.sha512",
+    "E:\\Nuget_Packages\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "E:\\Nuget_Packages\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "E:\\Nuget_Packages\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "E:\\Nuget_Packages\\packages\\pdfsharp.migradoc.standard\\1.51.15\\pdfsharp.migradoc.standard.1.51.15.nupkg.sha512",
+    "E:\\Nuget_Packages\\packages\\pdfsharp.migradoc.standard.documentobjectmodel\\1.51.15\\pdfsharp.migradoc.standard.documentobjectmodel.1.51.15.nupkg.sha512",
+    "E:\\Nuget_Packages\\packages\\pdfsharp.standard\\1.51.15\\pdfsharp.standard.1.51.15.nupkg.sha512",
+    "E:\\Nuget_Packages\\packages\\pdfsharp.standard.charting\\1.51.15\\pdfsharp.standard.charting.1.51.15.nupkg.sha512",
+    "E:\\Nuget_Packages\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512",
+    "E:\\Nuget_Packages\\packages\\system.globalization\\4.3.0\\system.globalization.4.3.0.nupkg.sha512",
+    "E:\\Nuget_Packages\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "E:\\Nuget_Packages\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
+    "E:\\Nuget_Packages\\packages\\system.reflection.primitives\\4.3.0\\system.reflection.primitives.4.3.0.nupkg.sha512",
+    "E:\\Nuget_Packages\\packages\\system.resources.extensions\\5.0.0\\system.resources.extensions.5.0.0.nupkg.sha512",
+    "E:\\Nuget_Packages\\packages\\system.resources.resourcemanager\\4.3.0\\system.resources.resourcemanager.4.3.0.nupkg.sha512",
+    "E:\\Nuget_Packages\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "E:\\Nuget_Packages\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "E:\\Nuget_Packages\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "E:\\Nuget_Packages\\packages\\system.text.encoding.codepages\\5.0.0\\system.text.encoding.codepages.5.0.0.nupkg.sha512",
+    "E:\\Nuget_Packages\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
+    "E:\\Nuget_Packages\\packages\\pdfcreator\\1.0.0\\pdfcreator.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

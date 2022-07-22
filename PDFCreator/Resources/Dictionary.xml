@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Dictionary Product="PDFCreator" Version="1">
+  <Languages>
+    <Language DisplayName="English">EN</Language>
+    <Language DisplayName="Русский">RU</Language>
+    <Language DisplayName="Українська">UA</Language>
+    <Language DisplayName="Български">BG</Language>
+  </Languages>
+  <Data Key="Name">
+    <Value Lang="RU">Название</Value>
+    <Value Lang="BG">Име</Value>
+    <Value Lang="EN">Name</Value>
+    <Value Lang="UA">Назва</Value>
+  </Data>
+  <Data Key="Address">
+    <Value Lang="RU">Адрес</Value>
+    <Value Lang="BG">Адрес</Value>
+    <Value Lang="EN">Address</Value>
+    <Value Lang="UA">Адреса</Value>
+  </Data>
+  <Data Key="Principal">
+    <Value Lang="RU">МатОтвЛицо</Value>
+    <Value Lang="BG">МОЛ</Value>
+    <Value Lang="EN">Contact</Value>
+    <Value Lang="UA">МатВідОсоба</Value>
+  </Data>
+  <Data Key="Phone">
+    <Value Lang="RU">Телефон</Value>
+    <Value Lang="BG">Телефон</Value>
+    <Value Lang="EN">Phone</Value>
+    <Value Lang="UA">Телефон</Value>
+  </Data>
+  <Data Key="TaxNumber">
+    <Value Lang="RU">ИНН</Value>
+    <Value Lang="BG">ЕИК</Value>
+    <Value Lang="EN">UIC</Value>
+    <Value Lang="UA">ІПН</Value>
+  </Data>
+  <Data Key="VATNumber">
+    <Value Lang="RU">КПП</Value>
+    <Value Lang="BG">ДДС №</Value>
+    <Value Lang="EN">VAT Number</Value>
+    <Value Lang="UA">ЄДРПОУ</Value>
+  </Data>
+  <Data Key="Client">
+    <Value Lang="RU">Клиент</Value>
+    <Value Lang="BG">Клиент</Value>
+    <Value Lang="EN">Client</Value>
+    <Value Lang="UA">Клієнт</Value>
+  </Data>
+  <Data Key="Invoice">
+    <Value Lang="RU">Фактура</Value>
+    <Value Lang="BG">Фактура</Value>
+    <Value Lang="EN">Invoice</Value>
+    <Value Lang="UA">Фактура</Value>
+  </Data>
+  <Data Key="Number">
+    <Value Lang="RU">Номер</Value>
+    <Value Lang="BG">Номер</Value>
+    <Value Lang="EN">Number</Value>
+    <Value Lang="UA">Номер</Value>
+  </Data>
+  <Data Key="Date">
+    <Value Lang="RU">Дата</Value>
+    <Value Lang="BG">Дата</Value>
+    <Value Lang="EN">Date</Value>
+    <Value Lang="UA">Дата</Value>
+  </Data>
+  <Data Key="From">
+    <Value Lang="RU">от</Value>
+    <Value Lang="BG">от</Value>
+    <Value Lang="EN">from</Value>
+    <Value Lang="UA">від</Value>
+  </Data>
+  <Data Key="Object">
+    <Value Lang="RU">Объект</Value>
+    <Value Lang="BG">Обект</Value>
+    <Value Lang="EN">Object</Value>
+    <Value Lang="UA">Об'єкт</Value>
+  </Data>
+  <Data Key="PaymentType">
+    <Value Lang="RU">Способ оплаты</Value>
+    <Value Lang="BG">Начин на плащане</Value>
+    <Value Lang="EN">Payment type</Value>
+    <Value Lang="UA">Спосіб оплати</Value>
+  </Data>
+  <Data Key="DealReason">
+    <Value Lang="RU">Основание для сделки</Value>
+    <Value Lang="BG">Основание на сделката</Value>
+    <Value Lang="EN">Reason</Value>
+    <Value Lang="UA">Основа для угоди</Value>
+  </Data>
+  <Data Key="TaxDate">
+    <Value Lang="RU">Дата налогового события</Value>
+    <Value Lang="BG">Дата на данъчно събитие</Value>
+    <Value Lang="EN">Tax date</Value>
+    <Value Lang="UA">Дата податкової події</Value>
+  </Data>
+  <Data Key="DealPlace">
+    <Value Lang="RU">Место сделки</Value>
+    <Value Lang="BG">Място на сделката</Value>
+    <Value Lang="EN">Place of Deal</Value>
+    <Value Lang="UA">Місце угоди</Value>
+  </Data>
+  <Data Key="DealDescription">
+    <Value Lang="RU">Описание сделки</Value>
+    <Value Lang="BG">Описание на сделката</Value>
+    <Value Lang="EN">Transaction description</Value>
+    <Value Lang="UA">Описання угоди</Value>
+  </Data>
+  <Data Key="InWords">
+    <Value Lang="RU">Словами</Value>
+    <Value Lang="BG">Словом</Value>
+    <Value Lang="EN">In words</Value>
+    <Value Lang="UA">Словами</Value>
+  </Data>
+  <Data Key="Bank">
+    <Value Lang="RU">Банк</Value>
+    <Value Lang="BG">Банка</Value>
+    <Value Lang="EN">Bank</Value>
+    <Value Lang="UA">Банк</Value>
+  </Data>
+  <Data Key="ReceivedBy">
+    <Value Lang="RU">Получил</Value>
+    <Value Lang="BG">Получил</Value>
+    <Value Lang="EN">Received by</Value>
+    <Value Lang="UA">Отримав</Value>
+  </Data>
+  <Data Key="CreatedBy">
+    <Value Lang="RU">Составил</Value>
+    <Value Lang="BG">Съставил</Value>
+    <Value Lang="EN">Issued by</Value>
+    <Value Lang="UA">Підготував</Value>
+  </Data>
+  <Data Key="Original">
+    <Value Lang="RU">Оригинал</Value>
+    <Value Lang="BG">Оригинал</Value>
+    <Value Lang="EN">Original</Value>
+    <Value Lang="UA">Оригінал</Value>
+  </Data>
+  <Data Key="Copy">
+    <Value Lang="RU">Копия</Value>
+    <Value Lang="BG">Копие</Value>
+    <Value Lang="EN">Copy</Value>
+    <Value Lang="UA">Копія</Value>
+  </Data>
+  <Data Key="VAT">
+    <Value Lang="RU">НДС</Value>
+    <Value Lang="BG">ДДС</Value>
+    <Value Lang="EN">VAT</Value>
+    <Value Lang="UA">ПДВ</Value>
+  </Data>
+  <Data Key="VATBase">
+    <Value Lang="RU">База НДС</Value>
+    <Value Lang="BG">Данъчна основа</Value>
+    <Value Lang="EN">VAT base</Value>
+    <Value Lang="UA">База ПДВ</Value>
+  </Data>
+  <Data Key="PaymentSum">
+    <Value Lang="RU">Сумма к оплате</Value>
+    <Value Lang="BG">Сума за плащане</Value>
+    <Value Lang="EN">Payment sum</Value>
+    <Value Lang="UA">Сума до сплати</Value>
+  </Data>
+</Dictionary>
+

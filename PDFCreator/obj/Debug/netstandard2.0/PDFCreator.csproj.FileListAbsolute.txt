@@ -1,0 +1,12 @@
+C:\Projects\PDFCreator\PDFCreator\PDFCreator\bin\Debug\netstandard2.0\PDFCreator.deps.json
+C:\Projects\PDFCreator\PDFCreator\PDFCreator\bin\Debug\netstandard2.0\PDFCreator.dll
+C:\Projects\PDFCreator\PDFCreator\PDFCreator\bin\Debug\netstandard2.0\PDFCreator.pdb
+C:\Projects\PDFCreator\PDFCreator\PDFCreator\obj\Debug\netstandard2.0\PDFCreator.csproj.AssemblyReference.cache
+C:\Projects\PDFCreator\PDFCreator\PDFCreator\obj\Debug\netstandard2.0\PDFCreator.Resources.Resources.resources
+C:\Projects\PDFCreator\PDFCreator\PDFCreator\obj\Debug\netstandard2.0\PDFCreator.csproj.GenerateResource.cache
+C:\Projects\PDFCreator\PDFCreator\PDFCreator\obj\Debug\netstandard2.0\PDFCreator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\PDFCreator\PDFCreator\PDFCreator\obj\Debug\netstandard2.0\PDFCreator.AssemblyInfoInputs.cache
+C:\Projects\PDFCreator\PDFCreator\PDFCreator\obj\Debug\netstandard2.0\PDFCreator.AssemblyInfo.cs
+C:\Projects\PDFCreator\PDFCreator\PDFCreator\obj\Debug\netstandard2.0\PDFCreator.csproj.CoreCompileInputs.cache
+C:\Projects\PDFCreator\PDFCreator\PDFCreator\obj\Debug\netstandard2.0\PDFCreator.dll
+C:\Projects\PDFCreator\PDFCreator\PDFCreator\obj\Debug\netstandard2.0\PDFCreator.pdb
